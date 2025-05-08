@@ -1,4 +1,4 @@
-# PRISM Program for Sena Traffic Systems
+# PRISM Program for STS
 
 
 
