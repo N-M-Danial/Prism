@@ -1,7 +1,8 @@
-streamlit
-pandas
-matplotlib
-numpy
-openpyxl
-odps
-python-dotenv
+matplotlib==3.7.1
+numpy==1.24.3
+openpyxl==3.0.10
+pandas==1.5.3
+plotly==5.9.0
+pyodps==0.12.2.1
+python-dotenv==1.1.1
+streamlit==1.44.1
